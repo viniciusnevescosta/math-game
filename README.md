@@ -1,7 +1,3 @@
-# MathGame
-![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/MathGame)
-![GitHub top language](https://img.shields.io/github/languages/top/Jolonte/MathGame)
-
 <p align="center">
   <img width="600" src="assets/to_readme/splashtogithub.png"
 </p>
@@ -9,6 +5,9 @@
 <p align="center">
   <img width="800" height="480" src="assets/to_readme/mathgame_git.gif"
 </p>
+ 
+![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/MathGame)
+![GitHub top language](https://img.shields.io/github/languages/top/Jolonte/MathGame)
 
 ### Description
 A program developed with the technology [VB.Net]. With a nice layout, you don't need an internet connection to play.
