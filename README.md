@@ -43,6 +43,12 @@ Este projeto é um jogo educativo que visa tornar o aprendizado da tabuada mais 
 
 ## Como Testar
 
+### Download
+
+- [V1.0](https://github.com/viniciusnevescosta/math-game/releases/tag/v1.0)
+
+### Localmente
+
 1. **Clone o Repositório:**
    ```bash
    git clone https://github.com/viniciusnevescosta/mathgame.git
