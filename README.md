@@ -1,6 +1,18 @@
 # Math Game
 
+![Archived(9)](https://github.com/viniciusnevescosta/math-game/assets/66970818/0b7df557-79a2-4595-80c9-749b59dc4ead)
+
 Bem-vindo ao repositório do meu projeto "Math Game"! Aqui, criei uma arena matemática interativa, desafiando os usuários a enfrentarem a tabuada do 1 na fase 1 e progredirem até a fase 10. Prove que você é o mestre da multiplicação e que a única coisa que divide por zero aqui é o seu entusiasmo!
+
+- [Read in english](en_README.md)
+
+## Sumário de Conteúdos
+
+- [Visão Geral](#visão-geral)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Funcionalidades](#funcionalidades)
+- [Como Testar](#como-testar)
+- [Aprendizados Adquiridos](#aprendizados-adquiridos)
 
 ## Visão Geral
 
@@ -33,7 +45,7 @@ Este projeto é um jogo educativo que visa tornar o aprendizado da tabuada mais 
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/viniciusnevescosta/schoolwork-mathgame.git
+   git clone https://github.com/viniciusnevescosta/mathgame.git
    ```
 
 2. **Abra o Projeto no Visual Studio:**
